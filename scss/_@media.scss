@@ -1,0 +1,133 @@
+@media (max-width: 767px) {
+    //----- start ------- nav ----------------
+    .nav {
+        justify-content: flex-start !important
+    }
+    .nav .nav-1 {
+        margin-top: 10px;
+        width: 320px !important
+    }
+    .nav .nav-1 .nav-item {
+        text-align: center;
+        border-left: none !important
+    }
+    .nav .nav-1 .nav-item:hover {
+        background-color: #cecbcb
+    }
+    //----- end ------- nav ----------------
+    .header2 {
+        left: 0 !important;
+        top: 370px !important;
+        p {
+            width: 60% !important;
+            margin: 0 auto;
+            padding-right: 10px !important;
+            padding-left: 10px !important;
+        }
+        h3 {
+            margin: 10px auto !important;
+            padding: 0 20px !important;
+        }
+    }
+}
+
+@media (max-width: 600px) {
+    .header2 {
+        left: 0 !important;
+        top: 370px !important;
+        p {
+            width: 80% !important;
+            margin: 0 auto;
+            padding-right: 10px !important;
+            padding-left: 10px !important;
+        }
+        h3 {
+            margin: 0 auto !important;
+            padding: 0 20px !important;
+        }
+    }
+    .b-content-img {
+        margin-top: 80px !important;
+        margin-bottom: 80px !important
+    }
+}
+
+@media (max-width: 750px) {
+    .header2 {
+        left: 0 !important;
+        top: 370px !important;
+        p {
+            width: 70% !important;
+            margin: 0 auto;
+            padding-right: 10px !important;
+            padding-left: 10px !important;
+        }
+        h3 {
+            margin: 0 auto !important;
+            padding: 0 20px !important;
+        }
+    }
+    .b-content-img {
+        margin-top: 80px !important;
+        margin-bottom: 80px !important
+    }
+}
+
+@media (max-width: 500px) {
+    .nav-icon {
+        margin: 0 10px !important;
+    }
+    .header2 {
+        left: 0 !important;
+        top: 370px !important;
+        p {
+            width: 90% !important;
+            margin: 0 auto;
+            padding-right: 10px !important;
+            padding-left: 10px !important;
+        }
+        h3 {
+            margin: 10px auto !important;
+            padding: 0 20px !important;
+        }
+    }
+    .b-content-img {
+        margin-top: 80px !important;
+        margin-bottom: 80px !important
+    }
+}
+
+@media (max-width: 766px) {
+    .b-content-img {
+        margin-top: 80px !important;
+        margin-bottom: 80px !important
+    }
+}
+
+//------- nav----------
+@media (min-width: 576px) {
+    .navrow {
+        max-width: 540px;
+    }
+    form {
+        margin: 20 0!important;
+    }
+}
+
+@media (min-width: 768px) {
+    .navrow {
+        max-width: 720px;
+    }
+}
+
+@media (min-width: 992px) {
+    .navrow {
+        max-width: 960px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .navrow {
+        max-width: 1140px;
+    }
+}

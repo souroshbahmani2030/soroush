@@ -1,0 +1,32 @@
+//----------- 1 -----------------
+.b-content1 {
+    width: 100%;
+    margin-top: 150px;
+    margin-bottom: 50px;
+    display: flex;
+    direction: rtl;
+    .b-content-img {
+        align-self: center;
+        img {
+            margin-left: 38px;
+            box-shadow: 1px 1px 5px 1px white;
+            padding: 10px;
+        }
+    }
+}
+
+//----------- 2 -----------------
+.b-content2 {
+    width: 100%;
+    margin-bottom: 50px;
+    display: flex;
+    direction: rtl;
+    .b-content-img {
+        align-self: center;
+        img {
+            margin-left: 38px;
+            box-shadow: 1px 1px 5px 1px white;
+            padding: 10px;
+        }
+    }
+}

@@ -1,0 +1,19 @@
+//--- start------- t-content1-3--------------
+.t-content1-3 {
+    margin-top: 145px !important;
+    direction: ltr !important;
+    p,
+    span {
+        font-size: 20px;
+        color: rgb(255, 255, 255);
+    }
+    span {
+        user-select: none;
+    }
+    i {
+        font-size: 20px;
+        color: rgb(0, 0, 0);
+    }
+}
+
+//--- end------- t-content1-3--------------
